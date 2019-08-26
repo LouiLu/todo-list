@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<ul
+  className="list-group list-group-flush"
+>
+  <TodoItem
+    delTodo={[Function]}
+    key="1"
+    todo={
+      Object {
+        "completed": false,
+        "id": 1,
+        "title": "delectus aut autem",
+      }
+    }
+  />
+  <TodoItem
+    delTodo={[Function]}
+    key="2"
+    todo={
+      Object {
+        "completed": false,
+        "id": 2,
+        "title": "quis ut nam facilis et officia qui",
+      }
+    }
+  />
+  <TodoItem
+    delTodo={[Function]}
+    key="3"
+    todo={
+      Object {
+        "completed": false,
+        "id": 3,
+        "title": "fugiat veniam minus",
+      }
+    }
+  />
+  <TodoItem
+    delTodo={[Function]}
+    key="4"
+    todo={
+      Object {
+        "completed": true,
+        "id": 4,
+        "title": "et porro tempora",
+      }
+    }
+  />
+  <TodoItem
+    delTodo={[Function]}
+    key="5"
+    todo={
+      Object {
+        "completed": false,
+        "id": 5,
+        "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      }
+    }
+  />
+</ul>
+`;
